@@ -1,0 +1,27 @@
+img {
+  border-radius:35%;
+  display: block;
+  margin-left: auto;
+  margin-right: 20px;
+  width: 20%;
+}
+.titel {
+  color: red;
+  text-align: center;
+  font-family:'Brush Script MT', cursive	;
+}
+.name {
+ font-family:Cursive	;
+ display: right;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+.addres{
+  font-family:Cursive	;
+  display: right;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
